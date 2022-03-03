@@ -8,7 +8,7 @@ Created for practice as part of my "Embedded systems" course during 3rd year of 
 
 
 ## Precision:
-The precision is depending on nuber of points we inserted, more points = more precise.
+The precision is depending on number of points we inserted, more points = more precise.
 
 ## Radius:
 If the radius will be smaller, the precision will get higher as we have the same number of points covering a smaller area.
