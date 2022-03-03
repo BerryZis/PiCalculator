@@ -1,0 +1,24 @@
+[main]
+Class="Function"
+Prototype="int main(int argc, char **argv);"
+
+[Exitq]
+Class="Function"
+Prototype="int Exitq(int panel, int event, void *callbackData, int eventData1, int eventData2);"
+
+[Function]
+Class="Function"
+Prototype="int Function(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[About]
+Class="Function"
+Prototype="void About(int menuBar, int menuItem, void *callbackData, int panel);"
+
+[Cursor]
+Class="Function"
+Prototype="int Cursor(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[QA]
+Class="Function"
+Prototype="void QA(int menuBar, int menuItem, void *callbackData, int panel);"
+
