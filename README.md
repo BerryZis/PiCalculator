@@ -3,7 +3,7 @@ Pi approximation calculator graphicaly showing the approximation to Pi in relati
 
 Created for practice as part of my "Embedded systems" course during 3rd year of my BSc studies.
 
-![Screenshot](Picalc.PNG)
+![Screenshot](picalc.PNG)
 
 
 
